@@ -8,4 +8,4 @@ There is a nice video on <a href="https://www.youtube.com/watch?v=IGlGvSXkRGI" t
 
 I start this project to try to animate it on a web page with a canvas.  
 
-It is not finished yet.
+It is not finished yet but it is make with 🇻 in 🐧 with ❤️  .
